@@ -57,7 +57,7 @@ python -m unittest test_calculator.py
 
 ### Updates
 
-> Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot and pin the typer version to latest stable release. Update the README to reflect these changes.
+> Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot for python and github actions. Actions should use commit sha instead of tags. Update the README to reflect these changes.
 
 ## Local Development
 

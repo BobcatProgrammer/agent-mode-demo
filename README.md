@@ -57,41 +57,41 @@ python -m unittest test_calculator.py
 
 ### Updates
 
-> Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot for python and github actions. Actions should use commit sha instead of tags. Update the README to reflect these changes.
+> Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot for python and github actions. Update the README to reflect these changes.
 
 ## Local Development
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/BobcatProgrammer/agent-mode-demo
-   cd agent-mode-demo
-   ```
+```sh
+git clone https://github.com/BobcatProgrammer/agent-mode-demo
+cd agent-mode-demo
+```
 
 2. Create a virtual environment (recommended):
 
-   ```sh
-   python -m venv .venv
-   source .venv/bin/activate
-   ```
+```sh
+python -m venv .venv
+source .venv/bin/activate
+```
 
 3. Install dependencies:
 
-   ```sh
-   pip install -r requirements.txt
-   ```
+```sh
+pip install -r requirements.txt
+```
 
 4. Run the application:
 
-   ```sh
-   python calculator.py calculate add 5 3
-   ```
+```sh
+python calculator.py calculate add 5 3
+```
 
 5. Run tests:
 
-   ```sh
-   python -m unittest test_calculator.py
-   ```  
+```sh
+python -m unittest test_calculator.py
+```  
 
 ## 📄 License
 

@@ -73,8 +73,8 @@ Setup a github action workflow that runs the tests and linters on every pr. Enab
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/BobcatProgrammer/agent-mode-demo
+   cd agent-mode-demo
    ```
 
 2. Create a virtual environment (recommended):

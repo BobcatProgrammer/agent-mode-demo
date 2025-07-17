@@ -41,32 +41,23 @@ python -m unittest test_calculator.py
 
 ### Division by Zero Handling
 
-```
-I want to update our calculator.py so that the divide function handles division by zero gracefully (by returning None instead of raising an exception). Also, update the corresponding unit test in test_calculator.py to check this new behavior.
-```
+> I want to update our calculator.py so that the divide function handles division by zero gracefully (by returning None instead of raising an exception). Also, update the corresponding unit test in test_calculator.py to check this new behavior.
 
 ### Find all TODOs
 
-```md
-Check the codebase for any todos and get them done.
-```
+> Check the codebase for any todos and get them done.
 
 ### Create a makefile
 
-```md
-I want to create a Makefile for this project that includes targets for running the application, running tests, and cleaning up temporary files.
-```
+> I want to create a Makefile for this project that includes targets for running the application, running tests, and cleaning up temporary files.
 
 ### Add a new operation
 
-```md
-I want to add a new operation to our calculator.py that calculates the modulus of two numbers. Update the CLI to support this operation and add a corresponding unit test in test_calculator.py. Update docs```
+> I want to add a new operation to our calculator.py that calculates the modulus of two numbers. Update the CLI to support this operation and add a corresponding unit test in test_calculator.py. Update docs
 
 ### Updates
 
-```md
-Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot and pin the typer version to latest stable release. Update the README to reflect these changes.
-```
+> Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot and pin the typer version to latest stable release. Update the README to reflect these changes.
 
 ## Local Development
 

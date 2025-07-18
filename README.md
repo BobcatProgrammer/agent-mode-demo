@@ -61,9 +61,17 @@ This really shows the power of agent mode, as it can directly interact with VS C
 
 > I want to add a new operation to our calculator.py that calculates the modulus of two numbers. Update the CLI to support this operation and add a corresponding unit test in test_calculator.py. Update docs
 
+### Fraction support
+
+> I want the program to handle input values such as 1/3.
+
 ### Updates
 
 > Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot for python and github actions. Update the README to reflect these changes.
+
+### Update README with Windows Local Development instructions
+
+> I also want developers to easily set up the project for local development in Windows, not only Linux. Use GitHub's MarkDown syntax to make it look pretty.
 
 ## Local Development
 

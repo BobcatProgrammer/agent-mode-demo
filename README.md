@@ -57,13 +57,13 @@ python -m unittest test_calculator.py
 
 ### Fraction support
 
-> I want the program to handle input values such as 1/3. Also, add this prompt to the `Prompts to try` section of the README if it's not there already.
+> I want the program to handle input values such as 1/3.
 
 ### Updates
 
 > Setup a github action workflow that runs the tests and linters on every pr. Enable Dependabot for python and github actions. Update the README to reflect these changes.
 
-### Update README with Windows Local Development Instructions
+### Update README with Windows Local Development instructions
 
 > I also want developers to easily set up the project for local development in Windows, not only Linux. Use GitHub's MarkDown syntax to make it look pretty.
 

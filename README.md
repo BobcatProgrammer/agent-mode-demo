@@ -43,6 +43,12 @@ python -m unittest test_calculator.py
 
 > I want to update our calculator.py so that the divide function handles division by zero gracefully (by returning None instead of raising an exception). Also, update the corresponding unit test in test_calculator.py to check this new behavior.
 
+### Linting and Formatting
+
+>Run a linter and formatter across all Python files. Automatically fix issues, commit the changes, and provide a summary of what was fixed.
+
+This really shows the power of agent mode, as it can directly interact with VS Code and the codebase to make changes, run tests, and commit updates.
+
 ### Find all TODOs
 
 > Check the codebase for any todos and get them done.
